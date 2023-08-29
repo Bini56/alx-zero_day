@@ -1,1 +1,1 @@
-thisis git project on alx-zero_day
+this is updated readme content
